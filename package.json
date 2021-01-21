@@ -1,0 +1,25 @@
+{
+  "name": "perritu",
+  "version": "1.0.0",
+  "description": "Perritu Discord bot.",
+  "main": "src/index",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ckemill/Perritu.git"
+  },
+  "author": "Ckemill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ckemill/Perritu/issues"
+  },
+  "homepage": "https://github.com/Ckemill/Perritu#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fb-video-downloader": "^1.0.3",
+    "ffmpeg-static": "^4.2.7",
+    "glob": "^7.1.6",
+    "opusscript": "0.0.7",
+    "youtube-search": "^1.1.4",
+    "ytdl-core": "^4.4.4"
+  }
+}

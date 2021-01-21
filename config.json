@@ -1,0 +1,5 @@
+{
+    "prefix": "!",
+    "owners": ["348162774922166283"],
+    "defaultPerms": ["SEND_MESSAGES", "VIEW_CHANNEL", "ADD_REACTIONS"]
+}
